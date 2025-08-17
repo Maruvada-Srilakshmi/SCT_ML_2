@@ -16,8 +16,13 @@ scikit-learn
 
 ## Data Set
 The dataset Mall_Customers.csv contains the following columns:
+
 CustomerID: Unique identifier for each customer
+
 Gender: Gender of the customer (Male/Female)
+
 Age: Age of the customer
+
 Annual Income (k$): Annual income of the customer in thousands of dollars
+
 Spending Score (1-100): Score assigned to the customer based on their purchasing behavior
